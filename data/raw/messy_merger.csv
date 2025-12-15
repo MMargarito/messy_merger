@@ -1,0 +1,56 @@
+Employee_ID,Name,Department,Salary,Join_Date,Email
+EMP032,Ronald Gonzalez,None,,2019-12-01,invalid_email
+EMP006,Sarah Johnson,None,,2021-06-20,invalid_email
+EMP033,karen nelson,None,,2019-12-01,invalid_email
+EMP014,charles martinez,HR,,2019-03-10,charles.martinez@globex.net
+EMP020,Steven Hall,Finance,,2022-11-05,steven.hall@acme.com
+EMP050,Eric Cook,Finance,,2021-07-07,eric.cook@acme.com
+EMP042,Timothy Evans,Marketing,55000,2020-10-30,timothy.evans@globex.net
+EMP027,lisa hill,Marketing,58500,2021-04-25,lisa.hill@globex.net
+EMP044,FRANK COLLINS,HR,45000,2020-10-30,frank.collins@globex.net
+EMP013,jennifer jackson,IT,61000,2019-03-10,jennifer.jackson@acme.com
+EMP031,deborah baker,Sales,51500,2019-12-01,deborah.baker@acme.com
+EMP004,Emily Davis,HR,45000,2020/01/15,emily.davis@acme.com
+EMP034,anthony carter,HR,46500,2019-12-01,anthony.carter@globex.net
+EMP035,Sharon Mitchell,Finance,66500,2019-12-01,sharon.mitchell@acme.com
+EMP009,Kevin Miller,Human Resources,47000,2021-06-20,kevin.miller@globex.net
+EMP018,Mark Lewis,IT,63000,2022-11-05,mark.lewis@acme.com
+EMP007,David Lee,Mktg,"58,000",2021-06-20,david.lee@globex.net
+EMP005,michael wilson,Finance,65000,2020-01-15,michael.wilson@globex.net
+EMP048,scott rogers,IT,62000,2021-07-07,scott.rogers@acme.com
+EMP028,Edward Scott,IT,62500,2021-04-25,edward.scott@acme.com
+EMP047,Stephanie Morris,Marketing,58000,2021-07-07,stephanie.morris@globex.net
+EMP046,Larry Sanchez,Sales,52000,2021-07-07,larry.sanchez@acme.com
+EMP046,Larry Sanchez,Sales,52000,2021-07-07,larry.sanchez@acme.com
+EMP016,Barbara Clark,Sales,53000,2022-11-05,barbara.clark@acme.com
+EMP010,  Anna Taylor  ,Fin,67000,2021-06-20,anna.taylor@acme.com
+EMP017,Paul Rodriguez,Marketing,59000,2022-11-05,paul.rodriguez@globex.net
+EMP025,Margaret Wright,Finance,65500,2020-08-12,margaret.wright@acme.com
+EMP031,Deborah Baker,Sales,51500,2019-12-01,deborah.baker@acme.com
+EMP038,MATTHEW TURNER,IT,63500,2022-02-14,matthew.turner@acme.com
+EMP026,KENNETH LOPEZ,Sales,52500,2021-04-25,kenneth.lopez@acme.com
+EMP012,Patricia Thomas,Marketing,56000,2019-03-10,patricia.thomas@globex.net
+EMP001,JOHN SMITH,Sales,50000,2020-01-15,john.smith@acme.com
+EMP049,Rebecca Reed,HR,47000,2021-07-07,rebecca.reed@globex.net
+EMP037,MICHELLE ROBERTS,Marketing,59500,2022-02-14,michelle.roberts@globex.net
+EMP030,Brian Adams,Finance,67500,2021-04-25,brian.adams@acme.com
+EMP041,Kimberly Parker,Sales,50000,2020-10-30,kimberly.parker@acme.com
+EMP002,jane doe,Marketing,55000,15/01/2020,jane.doe@globex.net
+EMP022,Andrew Young,Marketing,55500,2020-08-12,andrew.young@globex.net
+EMP003,Robert Brown,IT,60000,"Jan 15, 2020",
+EMP014,charles martinez,HR,46000,2019-03-10,charles.martinez@globex.net
+EMP040,Gary Campbell,Finance,68500,2022-02-14,gary.campbell@acme.com
+EMP036,Jason Perez,Sales,53500,2022-02-14,jason.perez@acme.com
+EMP024,George King,HR,45500,2020-08-12,george.king@globex.net
+EMP045,Melissa Stewart,Finance,65000,2020-10-30,melissa.stewart@acme.com
+EMP011,James Anderson,Sales,51000,2019-03-10,james.anderson@acme.com
+EMP023,Betty Hernandez,IT,60500,2020-08-12,betty.hernandez@acme.com
+EMP019,Nancy Walker,HR,48000,2022-11-05,nancy.walker@globex.net
+EMP018,mark lewis,IT,63000,2022-11-05,mark.lewis@acme.com
+EMP021,Sandra Allen,Sales,50500,2020-08-12,sandra.allen@acme.com
+EMP008,Laura White,Information Tech,62000,2021-06-20,laura.white@acme.com
+EMP043,jessica edwards,IT,60000,2020-10-30,jessica.edwards@acme.com
+EMP015,linda robinson,Finance,66000,2019-03-10,linda.robinson@acme.com
+EMP029,Donna Green,HR,47500,2021-04-25,donna.green@globex.net
+EMP040,gary campbell,Finance,68500,2022-02-14,gary.campbell@acme.com
+EMP039,Carol Phillips,HR,48500,2022-02-14,carol.phillips@globex.net
